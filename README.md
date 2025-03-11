@@ -51,8 +51,8 @@ _(More project descriptions can be added here)_
 ---
 
 ## 📫 Connect with Me
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
+- GitHub: [Your GitHub Profile](https://github.com/Vikrampoonia)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vikram-poonia-3497121b0/)
+- Email: pooniavikram348@iiitmanipur.ac.in
 
 Feel free to check out my projects and reach out! 🚀

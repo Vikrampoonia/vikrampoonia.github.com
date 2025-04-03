@@ -12,15 +12,15 @@ I'm a dedicated and enthusiastic student with a strong interest in web technolog
 ## 🛠️ Tech Skills
 
 ### Frontend:
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript,Tailwind CSS and familiar with TypeScript
 - ReactJS
 - QT (C++ Framework)
 
 ### Backend:
-- Node.js, Express.js
+- Node.js, Express.js,FLask
 
 ### Database:
-- SQL, NoSQL (MongoDB)
+- SQL(MySQL), NoSQL (MongoDB) and familiar with GraphQL
 
 ### Programming:
 - Proficient in C/C++ and JavaScript
@@ -29,7 +29,7 @@ I'm a dedicated and enthusiastic student with a strong interest in web technolog
 - Git, GitHub
 
 ### Deployment Tools:
-- Docker, Kubernetes, AWS
+- Docker, Kubernetes, AWS and vercel
 
 ### Tools:
 - Linux
@@ -42,12 +42,13 @@ I'm a dedicated and enthusiastic student with a strong interest in web technolog
 
 ## 📌 Featured Projects
 
-### 🧠 NeuroDyslexia
+### 🧠 NeuroDyslexia [Link](https://github.com/Vikrampoonia/NueroDiversityFlask/blob/main/README.md)
 A web application designed to assist individuals with **ADHD** and **Dyslexia** by enhancing readability and learning through text customization and audio-based assistance.
 
-**Tech Stack:** React.js, Node.js, MongoDB
+**Tech Stack:** React.js, Flask, MongoDB,AI
 
-### 🃏 Teri Game
+
+### 🃏 Teri Game [Link](https://github.com/Vikrampoonia/QT_Tervi/blob/main/README.md)
 A strategic **multiplayer card game** with both **team-based** and **individual** play modes. Built with **Qt** for UI and **C++** for the backend server, supporting up to **12 players**.
 
 **Tech Stack:** Qt (C++), Socket Programming, Multiplayer Server

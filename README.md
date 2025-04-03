@@ -42,11 +42,6 @@ I'm a dedicated and enthusiastic student with a strong interest in web technolog
 
 ## 📌 Featured Projects
 
-### 🚗 Duplicate Vehicle Number Plate Detection
-**Description:** Detects duplicate vehicle number plates using camera nodes, efficiently storing and tracking scanned vehicles while calculating the shortest distance between detected instances.
-**Tech Stack:** Python, OpenCV, SQL, Data Structures & Algorithms
-
-_(More project descriptions can be added here)_
 
 ---
 

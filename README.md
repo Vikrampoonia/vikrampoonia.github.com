@@ -47,11 +47,18 @@ A web application designed to assist individuals with **ADHD** and **Dyslexia** 
 
 **Tech Stack:** React.js, Flask, MongoDB,AI
 
+### 🏡 JantaGram - Community Issue Reporting Platform [Link](https://github.com/Vikrampoonia/JantaGram)
+
+**JantaGram** is a community-driven platform that allows users to report and track local issues like potholes, sanitation problems, or water supply concerns. 
+
+**Tech Stack:** Flutter, Flask, MongoDB
 
 ### 🃏 Teri Game [Link](https://github.com/Vikrampoonia/QT_Tervi/blob/main/README.md)
 A strategic **multiplayer card game** with both **team-based** and **individual** play modes. Built with **Qt** for UI and **C++** for the backend server, supporting up to **12 players**.
 
 **Tech Stack:** Qt (C++), Socket Programming, Multiplayer Server
+
+
 
 ---
 

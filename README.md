@@ -47,7 +47,7 @@ A web application designed to assist individuals with **ADHD** and **Dyslexia** 
 
 **Tech Stack:** React.js, Flask, MongoDB,AI
 
-### 🏡 JantaGram - Community Issue Reporting Platform [Link](https://github.com/Vikrampoonia/JantaGram)
+### 🏡 JantaGram - Community Issue Reporting Platform [Github](https://github.com/Vikrampoonia/JantaGram) || [Link](https://jantagram-production.up.railway.app/)
 
 **JantaGram** is a community-driven platform that allows users to report and track local issues like potholes, sanitation problems, or water supply concerns. 
 

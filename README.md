@@ -12,18 +12,19 @@ I'm a dedicated and enthusiastic student with a strong interest in web technolog
 ## 🛠️ Tech Skills
 
 ### Frontend:
-- HTML5, CSS3, JavaScript,Tailwind CSS and familiar with TypeScript
-- ReactJS
+- HTML5, CSS3, JavaScript,Tailwind CSS ,TypeScript
+- ReactJS, NextJs
 - QT (C++ Framework)
 
 ### Backend:
-- Node.js, Express.js,FLask
+- Node.js, Express.js, FLask
+- Microservices, Message Queue(Kafka)
 
 ### Database:
-- SQL(MySQL), NoSQL (MongoDB) and familiar with GraphQL
+- SQL(MySQL), NoSQL (MongoDB) , PostgreSql, Elastic Search, FireBase
 
 ### Programming:
-- Proficient in C/C++ and JavaScript
+- Proficient in C/C++ , JavaScript and Python
 
 ### Version Control:
 - Git, GitHub
@@ -32,7 +33,7 @@ I'm a dedicated and enthusiastic student with a strong interest in web technolog
 - Docker, Kubernetes, AWS and vercel
 
 ### Tools:
-- Linux
+- Linux , Postman, Jira
 
 ### Other Skills:
 - Strong problem-solving abilities

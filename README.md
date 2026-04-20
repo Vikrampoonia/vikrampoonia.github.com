@@ -120,7 +120,7 @@ My work focuses on **distributed systems, event-driven architecture, and real-ti
 
 * GitHub: https://github.com/Vikrampoonia
 * LinkedIn: https://linkedin.com/in/vikram-poonia-3497121b0/
-* Email: [pooniavikram348@iiitmanipur.ac.in](mailto:pooniavikram348@iiitmanipur.ac.in)
+* Email: [pooniavikram348@gmail.com](mailto:pooniavikram348@gmail.com)
 
 ---
 

@@ -1,72 +1,135 @@
-# Hi there, I'm VIKRAM! 👋
+# Hi there, I'm Vikram 👋
 
-🚀 **Student at IIIT Manipur** | Passionate about **Web Technology & Problem Solving**
-
----
-
-## 💡 About Me
-I'm a dedicated and enthusiastic student with a strong interest in web technologies and solving complex problems using efficient algorithms.
+🚀 **Backend-Focused Software Engineer | IIIT Manipur**
+💡 Building **scalable systems, real-time architectures, and high-performance backend services**
 
 ---
 
-## 🛠️ Tech Skills
+## 🧠 About Me
 
-### Frontend:
-- HTML5, CSS3, JavaScript,Tailwind CSS ,TypeScript
-- ReactJS, NextJs
-- QT (C++ Framework)
+I specialize in designing and building **low-latency, high-throughput systems** using modern backend technologies.
+My work focuses on **distributed systems, event-driven architecture, and real-time processing**.
 
-### Backend:
-- Node.js, Express.js, FLask
-- Microservices, Message Queue(Kafka)
+* ⚡ Reduced system latency by **94% (571ms → 32ms)** in production
+* 📈 Built systems handling **3000+ daily records**
+* 🏆 Winner of **Smart India Hackathon 2024**
 
-### Database:
-- SQL(MySQL), NoSQL (MongoDB) , PostgreSql, Elastic Search, FireBase
+---
 
-### Programming:
-- Proficient in C/C++ , JavaScript and Python
+## 🛠️ Tech Stack
 
-### Version Control:
-- Git, GitHub
+### 🚀 Backend & Systems
 
-### Deployment Tools:
-- Docker, Kubernetes, AWS and vercel
+* Node.js, Express.js
+* Kafka, Microservices, Event-Driven Architecture
+* WebSockets, REST APIs
 
-### Tools:
-- Linux , Postman, Jira
+### 🎨 Frontend
 
-### Other Skills:
-- Strong problem-solving abilities
-- Deep understanding of Data Structures & Algorithms
+* React.js, Next.js
+* Tailwind CSS, TypeScript
+
+### 🗄️ Databases
+
+* PostgreSQL, MongoDB, Redis
+* MySQL, Firebase, Elasticsearch
+
+### ☁️ Cloud & DevOps
+
+* Docker, Kubernetes
+* GCP (Scheduler, Cloud Tasks), AWS, Vercel
+
+### 💻 Languages
+
+* JavaScript, TypeScript, Python, C++
+
+### 🔧 Tools
+
+* Git, Linux, Postman, Jira, PM2, K6
+
+---
+
+## 💼 Experience
+
+### 🏢 Full Stack Developer — Myrik (Oct 2025 – Mar 2026)
+
+* Built a **DAC violation management system** handling **3000+ daily records**
+* Designed **distributed order tracking system** for real-time SLA monitoring
+* Implemented **event-driven notification pipeline (Pub/Sub)**
+* Optimized background jobs using **GCP Scheduler + Cloud Tasks**
+* Improved dashboard performance using **Elasticsearch**
+
+---
+
+### 🌐 MERN Stack Developer — Etycia (May 2025 – Aug 2025)
+
+* Developed **15+ secure REST APIs** with **JWT + RBAC**
+* Designed optimized **PostgreSQL schemas**
+* Built dashboards using **Next.js + AWS S3 integration**
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧠 NeuroDyslexia [Link](https://github.com/Vikrampoonia/NueroDiversityFlask/blob/main/README.md)
-A web application designed to assist individuals with **ADHD** and **Dyslexia** by enhancing readability and learning through text customization and audio-based assistance.
+### 🚗 Real-Time Vehicle Number Plate Detection
 
-**Tech Stack:** React.js, Flask, MongoDB,AI
+**Tech:** Node.js, Kafka, Redis, React.js, Flask
 
-### 🏡 JantaGram - Community Issue Reporting Platform [Github](https://github.com/Vikrampoonia/JantaGram) || [Link](https://jantagram-production.up.railway.app/)
-
-**JantaGram** is a community-driven platform that allows users to report and track local issues like potholes, sanitation problems, or water supply concerns. 
-
-**Tech Stack:** Flutter, Flask, MongoDB
-
-### 🃏 Teri Game [Link](https://github.com/Vikrampoonia/QT_Tervi/blob/main/README.md)
-A strategic **multiplayer card game** with both **team-based** and **individual** play modes. Built with **Qt** for UI and **C++** for the backend server, supporting up to **12 players**.
-
-**Tech Stack:** Qt (C++), Socket Programming, Multiplayer Server
-
-
+* Built **distributed real-time pipeline** using Kafka microservices
+* Achieved **94% latency reduction** and **52% throughput increase**
+* Implemented **Redis caching + async processing**
+* Developed **real-time monitoring dashboard (WebSockets)**
 
 ---
 
-## 📫 Connect with Me
-- GitHub: [Github Profile](https://github.com/Vikrampoonia)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vikram-poonia-3497121b0/)
-- Email: pooniavikram348@iiitmanipur.ac.in
-- Mobile: +91 8003980678
+### 🎥 NavSarjan Live
 
-Feel free to check out my projects and reach out! 🚀
+**Tech:** React.js, Node.js, WebRTC
+
+* Designed **RBAC-based secure system**
+* Built **real-time chat using WebSockets**
+* Integrated **multi-language accessibility features**
+
+---
+
+### 🧠 NeuroDyslexia
+
+**Tech:** React.js, Flask, MongoDB, AI
+
+* Built assistive platform for **ADHD & Dyslexia users**
+* Enabled **text customization + audio-based learning**
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Smart India Hackathon 2024 Winner
+* 🏅 ICPC Regionalist
+* 🥇 Google Developer Hackathon Winner
+* 🥉 Ahouba Hackathon (3rd Place)
+
+---
+
+## 📊 Coding Profiles
+
+* 💻 GeeksforGeeks: https://geeksforgeeks.org/user/pooniavi9jdk/
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Vikrampoonia
+* LinkedIn: https://linkedin.com/in/vikram-poonia-3497121b0/
+* Email: [pooniavikram348@iiitmanipur.ac.in](mailto:pooniavikram348@iiitmanipur.ac.in)
+
+---
+
+## ⚡ What I’m Focused On
+
+* Designing **scalable distributed systems**
+* Building **real-time architectures (Kafka, WebSockets)**
+* Optimizing **performance & system reliability at scale**
+
+---
+
+⭐ *Always open to collaborations, backend roles, and challenging engineering problems!*
